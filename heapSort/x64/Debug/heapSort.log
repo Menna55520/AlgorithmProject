@@ -1,0 +1,3 @@
+﻿  heapSort.cpp
+C:\Users\Solo\source\repos\heapSort\heapSort.cpp(39,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  heapSort.vcxproj -> C:\Users\Solo\source\repos\heapSort\x64\Debug\heapSort.exe
